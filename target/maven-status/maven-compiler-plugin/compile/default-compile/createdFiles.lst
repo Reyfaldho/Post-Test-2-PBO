@@ -1,0 +1,6 @@
+com\mycompany\sistem_manajemen_sekolah\Manajemen\CRUD.class
+com\mycompany\sistem_manajemen_sekolah\Manajemen\Orang.class
+com\mycompany\sistem_manajemen_sekolah\Manajemen\Siswa.class
+com\mycompany\sistem_manajemen_sekolah\Sistem_Manajemen_Sekolah.class
+com\mycompany\sistem_manajemen_sekolah\Manajemen\Guru.class
+com\mycompany\sistem_manajemen_sekolah\Manajemen\Kelas.class
